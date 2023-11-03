@@ -34,7 +34,7 @@ Maybe 😅
 
 
 
-[Check my Portfolio 👀 ](https://portfolio-wine-iota-92.vercel.app/ )
+[Check my Portfolio 👀 ](https://portfolio-oijz8s106-kevsalom.vercel.app/ )
 
 ## 📫 How to contact me?
 
