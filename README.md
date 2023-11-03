@@ -34,7 +34,7 @@ Maybe 😅
 
 
 
-[Check my Portfolio 👀 ](https://www.linkedin.com/in/kevin-salom-465aa2154/)
+[Check my Portfolio 👀 ](https://portfolio-wine-iota-92.vercel.app/)
 
 ## 📫 How to contact me?
 
