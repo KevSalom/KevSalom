@@ -1,50 +1,43 @@
-# Hola, soy Kevin Salom 👋
 
-Soy un apasionado desarrollador Web Full Stack 🚀  con experiencia en JavaScript, React.js, Node.js y muchas más tecnologías del ecosistema JavaScript.
+# Hello, I'm Kevin Salom 👋
 
-## ❤️ ¿Lo que más me apasiona?
-Crear aplicaciones web utiles con diseños elegantes y minimalistas para mejorar la experiencia del usuario.
+I'm a passionate Full Stack Web developer 🚀 with experience in JavaScript, React.js, Node.js, and many other technologies from the JavaScript ecosystem.
 
-🤔 ¿Corazón de Front-end? Quizas...😅
+## ❤️ What I'm most passionate about?
+Creating useful web applications with elegant and minimalist designs to enhance the user experience.
 
-## Mis habilidades técnicas
+Heart in Front-end?🤔 ...
+Maybe 😅
+
+## My technical skills
 
 ### 👀 Front-end
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Redux
-- Zustand
-- Bootstrap
+- HTML, CSS, JavaScript, React, Redux, Zustand, Bootstrap
 
 ### ⬅️Back-end
-- Node.js
-- Express.js
-- Sequelize
-- PostgreSQL
+- Node.js, Express.js, Sequelize, PostgreSQL
 
-### 🛠️ Herramientas y Utilidades
+### 🛠️ Tools and Utilities
 
-- GitHuh
-- Figma
-- Trello
+- GitHub, Figma, Trello
 
-### Actualmente Aprendiendo
+### Currently Learning
 
 - Next.js
-- TypeScript
 
-## 🚀 Algunos de mis proyectos
+## 🚀 Some of my projects
 
-1. **ActiZone**: Descripción del proyecto 1 con enlace al repositorio.
-2. **Ge3khub**: Descripción del proyecto 2 con enlace al repositorio.
-3. **Proyecto 3**: Descripción del proyecto 3 con enlace al repositorio.
 
-## 📫 ¿Cómo contactarme?
+1. **ActiZone**: Activity management repository in different countries, [repository](https://github.com/KevSalom/countries_deploy).
+3. **Ge3khub**: Activity management application in different countries, [repository](https://github.com/Guardianes-de-la-Tukineta).
 
-Puedes seguirme y contactarme en los siguientes sitios:
 
-!LinkedIn
-!Twitter
+
+[Check my Portfolio 👀 ](https://www.linkedin.com/in/kevin-salom-465aa2154/)
+
+## 📫 How to contact me?
+
+You can follow and contact me on the following platforms:
+
+[LinkedIn](https://www.linkedin.com/in/kevin-salom-465aa2154/)
