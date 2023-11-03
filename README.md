@@ -1,16 +1,50 @@
-### Hi there 👋
+# Hola, soy Kevin Salom 👋
 
-<!--
-**KevSalom/KevSalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado desarrollador Web Full Stack 🚀  con experiencia en JavaScript, React.js, Node.js y muchas más tecnologías del ecosistema JavaScript.
 
-Here are some ideas to get you started:
+## ❤️ ¿Lo que más me apasiona?
+Crear aplicaciones web utiles con diseños elegantes y minimalistas para mejorar la experiencia del usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 ¿Corazón de Front-end? Quizas...😅
+
+## Mis habilidades técnicas
+
+### 👀 Front-end
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Zustand
+- Bootstrap
+
+### ⬅️Back-end
+- Node.js
+- Express.js
+- Sequelize
+- PostgreSQL
+
+### 🛠️ Herramientas y Utilidades
+
+- GitHuh
+- Figma
+- Trello
+
+### Actualmente Aprendiendo
+
+- Next.js
+- TypeScript
+
+## 🚀 Algunos de mis proyectos
+
+1. **ActiZone**: Descripción del proyecto 1 con enlace al repositorio.
+2. **Ge3khub**: Descripción del proyecto 2 con enlace al repositorio.
+3. **Proyecto 3**: Descripción del proyecto 3 con enlace al repositorio.
+
+## 📫 ¿Cómo contactarme?
+
+Puedes seguirme y contactarme en los siguientes sitios:
+
+!LinkedIn
+!Twitter
