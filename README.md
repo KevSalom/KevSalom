@@ -40,7 +40,4 @@ Maybe 😅
 
 ✉️ kevsaloms@gmail.com 
 
-or
-
-You can follow and contact me on the following platforms:
-[LinkedIn](https://www.linkedin.com/in/kevin-salom-465aa2154/)
+You can also follow and contact me on [LinkedIn](https://www.linkedin.com/in/kevin-salom-465aa2154/)
