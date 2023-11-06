@@ -38,6 +38,9 @@ Maybe 😅
 
 ## 📫 How to contact me?
 
-You can follow and contact me on the following platforms:
+✉️ kevsaloms@gmail.com 
 
+or
+
+You can follow and contact me on the following platforms:
 [LinkedIn](https://www.linkedin.com/in/kevin-salom-465aa2154/)
