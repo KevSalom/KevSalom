@@ -29,8 +29,8 @@ Maybe 😅
 ## 🚀 Some of my projects
 
 
-1. **ActiZone**: Activity management repository in different countries, [repository](https://github.com/KevSalom/countries_deploy).
-3. **Ge3khub**: Activity management application in different countries, [repository](https://github.com/Guardianes-de-la-Tukineta).
+1. **ActiZone**: Activity management repository in different countries, [repository](https://github.com/KevSalom/countries_deploy)   [deploy](https://countries-deploy.vercel.app/) .
+2. **Ge3khub**: E-commerce that aims to provide products to the "geek" community, [repository](https://github.com/Guardianes-de-la-Tukineta) [deploy](https://ge3khub-shop-p9rv.vercel.app/).
 
 
 
