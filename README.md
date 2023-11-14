@@ -24,7 +24,7 @@ Maybe 😅
 
 ### Currently Learning
 
-- Next.js
+- Next.js, Typescript, MongoDB
 
 ## 🚀 Some of my projects
 
