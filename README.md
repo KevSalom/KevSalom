@@ -11,7 +11,7 @@ Maybe 😅
 
 ## My technical skills
 
-### Lenguages
+### Languages
 
 - HTML, CSS, JavaScript, TypeScript
 
