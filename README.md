@@ -1,47 +1,28 @@
+👋 Hi, I'm Kevin Salom
+Full Stack Developer & MD — Building web experiences that convert.
 
-# Hello, I'm Kevin Salom 👋
+---
+🛠 Tech Stack
+Frontend: Next.js · React · Astro · TypeScript · Tailwind CSS
+Backend: Node.js · Express · NestJS · Drizzle ORM · PostgreSQL
+Tools & AI: n8n · OpenAI · Gemini · Langchain · Langgraph · GraphQL
+Other: Stripe · PayPal · Clerk · Vercel · Cloudinary · Sentry · SQLite · MongoDB · Airtable
+---
 
-I'm a passionate Full Stack Web developer 🚀 with experience in JavaScript, React.js, Node.js, and many other technologies from the JavaScript ecosystem.
+💼 Experience
+Liventi Inc. — Sole Web Developer & IT (2023 - Present)
+- 🚀 Tripled sales in 8 months migrating from Wix to Next.js (SSG + ISR + on-demand revalidation)
+- 🔄 Built real-time sync system between e-commerce and 4 physical stores
+- 🤖 Created AI-powered automation workflows (n8n + OpenAI/Gemini) integrating Gmail, Airtable, and inventory management
+---
 
-## ❤️ What I'm most passionate about?
-Creating useful web applications with elegant and minimalist designs to enhance the user experience.
-
-Heart in Front-end?🤔 ...
-Maybe 😅
-
-## My technical skills
-
-### Languages
-
-- HTML, CSS, JavaScript, TypeScript
-
-### 👀 Front-end
-
-- React, Next.js Redux, Zustand, Bootstrap, Tailwind
-
-### ⬅️Back-end
-- Node.js, Express.js, Sequelize, PostgreSQL, MongoDB, Prisma
-
-### 🛠️ Tools and Utilities
-
-- GitHub, Figma, Trello, Slack, Vercel
-
-### Currently Learning
-
-- Testing, OAuth 2.0, SASS
-
-## 🚀 Some of my projects
-
-
-1. **ActiZone**: Activity management repository in different countries, [repository](https://github.com/KevSalom/countries_deploy)   [deploy](https://countries-deploy.vercel.app/) .
-2. **Ge3khub**: E-commerce that aims to provide products to the "geek" community, [repository](https://github.com/Guardianes-de-la-Tukineta) [deploy](https://ge3khub-shop-p9rv.vercel.app/).
-3. **RutinaTube**: Application that allows you to save and manage YouTube Exercise Routines. [repository](https://github.com/KevSalom/JM-Prueba) [deploy](https://jm-prueba.vercel.app/).
-
-
-[Check my Portfolio 👀 ](https://portfolio-kevin-eight.vercel.app/)
-
-## 📫 How to contact me?
-
-✉️ kevsaloms@gmail.com 
-
-You can also follow and contact me on [LinkedIn](https://www.linkedin.com/in/kevin-salom-465aa2154/)
+📚 Currently Learning
+Exploring AI Agents & Automation with Langchain, Langgraph and n8n. Building personal projects to apply these technologies in real-world scenarios.
+---
+📬 Contact
+- LinkedIn: linkedin.com/in/kevinsalom
+- Email: your email here
+- 
+---
+"I don't just write code — I solve problems."
+---
