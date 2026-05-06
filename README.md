@@ -35,7 +35,7 @@ Exploring **AI Agents** & **Automation** with Langchain, Langgraph and n8n. Buil
 ## 📬 Contact
 
 - **LinkedIn:** [linkedin.com/in/kevinsalom](https://www.linkedin.com/in/kevin-salom-465aa2154)
-- **Email:** [kevsaloms@gmail.com]
+- **Email:** kevsaloms@gmail.com
 
 ---
 
